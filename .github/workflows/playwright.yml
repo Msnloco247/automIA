@@ -16,6 +16,7 @@ jobs:
   test:
     timeout-minutes: 60
     runs-on: ubuntu-latest
+    environment: qa
     steps:
     - uses: actions/checkout@v4
     
@@ -40,6 +41,15 @@ jobs:
     - name: Run Playwright tests
       run: npx playwright test
       continue-on-error: true
+
+    - name: Generate Allure Environment info
+      if: always()
+      run: |
+        mkdir -p allure-results
+        echo "Environment=QA" >> allure-results/environment.properties
+        echo "URL=${{ secrets.BASE_URL }}" >> allure-results/environment.properties
+        echo "Browser=Chromium" >> allure-results/environment.properties
+        echo "Reporters=Allure, HTML" >> allure-results/environment.properties
 
     - name: Get Allure history
       uses: actions/checkout@v4
