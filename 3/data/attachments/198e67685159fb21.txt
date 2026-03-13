@@ -1,0 +1,10 @@
+info: ℹ️ Navigating to / {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:54"}
+info: ✅ Successfully navigated to / {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ℹ️ Filling Username input with: locked_out_user {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ✅ Successfully filled Username input {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ℹ️ Filling Password input with: ****** {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ✅ Successfully filled Password input {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ℹ️ Clicking on Login button {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ✅ Successfully clicked on Login button {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ℹ️ Getting text from Login error message {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
+info: ✅ Successfully got text from Login error message: Epic sadface: Sorry, this user has been locked out. {"testName":"Login with locked out user @negative","timestamp":"2026-03-13 01:10:55"}
