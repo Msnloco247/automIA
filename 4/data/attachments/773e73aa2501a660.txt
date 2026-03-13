@@ -1,0 +1,10 @@
+info: ℹ️ Navigating to / {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully navigated to / {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Filling Username input with: standard_user {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully filled Username input {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Filling Password input with: ****** {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully filled Password input {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Clicking on Login button {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully clicked on Login button {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Getting text from Login error message {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully got text from Login error message: Epic sadface: Password is required {"testName":"Login with empty password @negative","timestamp":"2026-03-13 01:33:00"}

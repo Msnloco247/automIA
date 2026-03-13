@@ -1,0 +1,10 @@
+info: ℹ️ Navigating to / {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ✅ Successfully navigated to / {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ℹ️ Filling Username input with: standard_user {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ✅ Successfully filled Username input {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ℹ️ Filling Password input with: ****** {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ✅ Successfully filled Password input {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ℹ️ Clicking on Login button {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ✅ Successfully clicked on Login button {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ℹ️ Verifying URL matches: /inventory.html/ {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}
+info: ✅ URL matches: /inventory.html/ {"testName":"Successful login @positive","timestamp":"2026-03-13 01:32:58"}

@@ -1,0 +1,28 @@
+info: ℹ️ Navigating to / {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully navigated to / {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Filling Username input with: standard_user {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully filled Username input {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:00"}
+info: ℹ️ Filling Password input with: ****** {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:00"}
+info: ✅ Successfully filled Password input {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Login button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Login button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Add to cart button for Sauce Labs Backpack {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Add to cart button for Sauce Labs Backpack {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Shopping cart link {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Shopping cart link {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Checkout button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Checkout button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Filling First name with: John {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully filled First name {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Filling Last name with: Doe {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully filled Last name {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Filling Postal code with: 12345 {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully filled Postal code {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Continue button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Continue button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Getting text from Inventory item Sauce Labs Backpack {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully got text from Inventory item Sauce Labs Backpack: Sauce Labs Backpack {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Clicking on Finish button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully clicked on Finish button {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ℹ️ Getting text from Success header {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}
+info: ✅ Successfully got text from Success header: Thank you for your order! {"testName":"Complete purchase successfully @positive","timestamp":"2026-03-13 01:33:01"}

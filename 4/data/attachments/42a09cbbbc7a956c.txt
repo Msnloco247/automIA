@@ -1,0 +1,24 @@
+info: ℹ️ Navigating to / {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully navigated to / {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Filling Username input with: standard_user {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully filled Username input {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Filling Password input with: ****** {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully filled Password input {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Clicking on Login button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully clicked on Login button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Clicking on Add to cart button for Sauce Labs Bike Light {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully clicked on Add to cart button for Sauce Labs Bike Light {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Clicking on Shopping cart link {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully clicked on Shopping cart link {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Clicking on Checkout button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully clicked on Checkout button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Filling First name with: John {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully filled First name {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Filling Last name with: Doe {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully filled Last name {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Filling Postal code with:  {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully filled Postal code {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Clicking on Continue button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully clicked on Continue button {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ℹ️ Getting text from Checkout error message {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
+info: ✅ Successfully got text from Checkout error message: Error: Postal Code is required {"testName":"Fails to checkout without postal code @negative","timestamp":"2026-03-13 01:33:03"}
